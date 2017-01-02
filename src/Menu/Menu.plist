@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>ic_home_black</string>
+		<key>title</key>
+		<string>Home</string>
+		<key>event_name</key>
+		<string>onHomeAction</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>ic_info_black</string>
+		<key>title</key>
+		<string>About</string>
+		<key>event_name</key>
+		<string>onAboutAction</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>ic_help_black</string>
+		<key>title</key>
+		<string>Help</string>
+		<key>event_name</key>
+		<string>onHelpAction</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>ic_copyright_black</string>
+		<key>title</key>
+		<string>Terms &amp; Conditions</string>
+		<key>event_name</key>
+		<string>onTermAndConditionsAction</string>
+	</dict>
+</array>
+</plist>
